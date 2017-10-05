@@ -1,0 +1,15 @@
+﻿body{
+    background-color: #85cdc1;
+}
+
+label{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+	color: #2d4821;
+	padding: 15px 50px 15px 50px;
+}
+
+h1{
+    font-family: Impact;
+	color: #738f73;
+}
